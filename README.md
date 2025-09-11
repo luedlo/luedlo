@@ -10,10 +10,39 @@ I like programming 💻, but I also love anime 🇯🇵 and frontenis 🎾.
 ## Technologies:
 
 <div align="left">
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vue,react,angular,vite,postgres,mysql,mongodb,firebase,html,css,js,ts,nodejs,express,nestjs,php,laravel,symfony,java,spring,maven,gradle,cs,dotnet,py,django,fastapi,bootstrap,tailwind,materialui,npm,yarn,git,github,gitlab,bitbucket,apple,windows,linux,docker,heroku,vercel,rabbitmq,redis,powershell,gulp,jest,jquery,webpack,arduino,raspberrypi,stackoverflow,linkedin,gmail,idea,eclipse,visualstudio,vscode,postman,md" />
-    </a>
+  <p>
+    <img class="mb-1" src="https://skillicons.dev/icons?i=vue" alt="vue logo" />
+    <img class="mb-1" src="https://skillicons.dev/icons?i=react" alt="react logo" />
+    <img class="mb-1" src="https://skillicons.dev/icons?i=angular" alt="angular logo" />
+    <img class="mb-1" src="https://skillicons.dev/icons?i=postgres" alt="postgres logo" />
+    <img class="mb-1" src="https://skillicons.dev/icons?i=mysql" alt="mysql logo" />
+    <img class="mb-1" src="https://skillicons.dev/icons?i=mongodb" alt="mongodb logo" />
+    <img class="mb-1" src="https://skillicons.dev/icons?i=firebase" alt="firebase logo" />
+    <img class="mb-1" src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitmq logo" />
+    <img class="mb-1" src="https://skillicons.dev/icons?i=redis" alt="redis logo" />
+    <img class="mb-1" src="https://skillicons.dev/icons?i=html" alt="html logo" />
+    <img class="mb-1" src="https://skillicons.dev/icons?i=css" alt="css logo" />
+    <img class="mb-1" src="https://skillicons.dev/icons?i=js" alt="js logo" />
+    <img class="mb-1" src="https://skillicons.dev/icons?i=ts" alt="ts logo" />
+    <img class="mb-1" src="https://skillicons.dev/icons?i=nodejs" alt="nodejs logo" />
+    <img class="mb-1" src="https://skillicons.dev/icons?i=express" alt="express logo" />
+    <img class="mb-1" src="https://skillicons.dev/icons?i=nestjs" alt="nestjs logo" />
+    <img class="mb-1" src="https://skillicons.dev/icons?i=php" alt="php logo" />
+    <img class="mb-1" src="https://skillicons.dev/icons?i=laravel" alt="laravel logo" />
+    <img class="mb-1" src="https://skillicons.dev/icons?i=java" alt="java logo" />
+    <img class="mb-1" src="https://skillicons.dev/icons?i=spring" alt="spring logo" />
+    <img class="mb-1" src="https://skillicons.dev/icons?i=cs" alt="cs logo" />
+    <img class="mb-1" src="https://skillicons.dev/icons?i=dotnet" alt="dotnet logo" />
+    <img class="mb-1" src="https://skillicons.dev/icons?i=py" alt="py logo" />
+    <img class="mb-1" src="https://skillicons.dev/icons?i=fastapi" alt="fastapi logo" />
+    <img class="mb-1" src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap logo" />
+    <img class="mb-1" src="https://skillicons.dev/icons?i=npm" alt="npm logo" />
+    <img class="mb-1" src="https://skillicons.dev/icons?i=git" alt="git logo" />
+    <img class="mb-1" src="https://skillicons.dev/icons?i=github" alt="github logo" />
+    <img class="mb-1" src="https://skillicons.dev/icons?i=docker" alt="docker logo" />
+    <img class="mb-1" src="https://skillicons.dev/icons?i=vercel" alt="vercel logo" />
+    <img class="mb-1" src="https://skillicons.dev/icons?i=powershell" alt="powershell logo" />
+    <img class="mb-1" src="https://skillicons.dev/icons?i=jest" alt="jest logo" />
   </p>
 </div>
 
