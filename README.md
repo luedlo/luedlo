@@ -47,7 +47,8 @@ I like programming 💻, but I also love anime 🇯🇵 and frontenis 🎾.
 </div>
 
 ## Links:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@levistrauss-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/levistrauss/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@levistrauss-487FCF?style=for-the-badge&logo=inspire&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/levistrauss/)
+[![WebSite](https://img.shields.io/badge/WebSite-WhoIAm-A82FCD?style=for-the-badge&logo=writedotas&logoColor=white&labelColor=101010)](https://luedlo.github.io/luedlo/)
 
 ## Contact:
 [![Email](https://img.shields.io/badge/luedlo97@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:luedlo97@gmail.com)
